@@ -1,0 +1,2 @@
+# Smaspi_SNS_record
+スマートスピーカーで投稿できるSNSをAmazon様に申請してみた記録。
