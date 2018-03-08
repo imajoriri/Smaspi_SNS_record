@@ -26,7 +26,7 @@ var handlers = {
     var tweet = this.event.request.intent.slots.tweet.value;
     var message = tweet + 'ですね。投稿しました。';
 
-    const url = 'http://52.198.65.234/tweets';
+    const url = 'secret';
     var options = {
       method: 'POST',
       url: url,
